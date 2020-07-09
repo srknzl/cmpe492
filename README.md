@@ -2,11 +2,15 @@
 
 * This repository is for my senior project. You can find everything related to my project in this repository. 
 
-## Video presentation: [https://drive.google.com/file/d/1V9EbYrCtCEmvSDQ5ZBOwHH1cVKeusD38/view?usp=sharing](https://drive.google.com/file/d/1V9EbYrCtCEmvSDQ5ZBOwHH1cVKeusD38/view?usp=sharing)
+## Video presentation: 
 
-## Report: [Click here](./492_Report.pdf)
+* [https://drive.google.com/file/d/1V9EbYrCtCEmvSDQ5ZBOwHH1cVKeusD38/view?usp=sharing](https://drive.google.com/file/d/1V9EbYrCtCEmvSDQ5ZBOwHH1cVKeusD38/view?usp=sharing)
 
-## Poster: [Click here](./492_Poster.pdf)
+## Report: 
+* [Click here](./492_Report.pdf)
+
+## Poster: 
+* [Click here](./492_Poster.pdf)
 
 ## Problem Statement: 
 
