@@ -4,7 +4,7 @@
 
 ## Problem Statement: 
 
-In this project, the goal is to build a knowledge-centric online community model that supports the specification of a privacy concerned, processable and analyzable data producing application by non-tech savvy users. We built our framework on top of Solid project that is started at MIT. Solid brings decentralized data storaga to the web.
+In this project, the goal is to build a knowledge-centric online community model that supports the specification of a privacy concerned, processable and analyzable data producing application by non-tech savvy users. We built our framework on top of Solid project that is started at MIT. Solid brings decentralized data storage to the web.
 
 ## Poster: 
 * [Click here](./492_Poster.pdf)
